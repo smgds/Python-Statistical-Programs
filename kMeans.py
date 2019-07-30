@@ -1,12 +1,12 @@
 # =============================================================================
 # 
 '''CPSC-51100, Summer II 2019
-NAME: Amy Noyes, Seth Gory, Christina Morgenstern
+NAME: Amy Noyes
 PROGRAMMING ASSIGNMENT #2
 '''
 # =============================================================================
 print("\n")
-print("CPSC-51100, Summer II 2019", "NAME: Amy Noyes, Seth Gory, Christina Morgenstern", \
+print("CPSC-51100, Summer II 2019", "NAME: Amy Noyes", \
       "PROGRAMMING ASSIGNMENT #2", sep="\n")
       
 print("\n")
